@@ -1,0 +1,5 @@
+node_modules
+.env
+app-linux
+app-macos
+app-win.exe

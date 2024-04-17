@@ -1,0 +1,394 @@
+{
+    "DAI/BUSD": {
+        "SushiSwap": {
+            "price": 0.9993686279021591,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 7.329915660317418
+            },
+            "token1": {
+                "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+                "symbol": "BUSD",
+                "amount": 7.325287756089967
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.9993493746056565,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 374488.1089912612
+            },
+            "token1": {
+                "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+                "symbol": "BUSD",
+                "amount": 374244.4575176718
+            }
+        }
+    },
+    "DAI/USDT": {
+        "SushiSwap": {
+            "price": 1.010344291290876,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 0.47530208579213273
+            },
+            "token1": {
+                "address": "0x55d398326f99059fF775485246999027B3197955",
+                "symbol": "USDT",
+                "amount": 0.4802187490187275
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.0045359077180518,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 130.87047321631044
+            },
+            "token1": {
+                "address": "0x55d398326f99059fF775485246999027B3197955",
+                "symbol": "USDT",
+                "amount": 131.4640896058374
+            }
+        }
+    },
+    "DAI/WBNB": {
+        "SushiSwap": {
+            "price": 0.004678867767451689,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 132.23098533592193
+            },
+            "token1": {
+                "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                "symbol": "WBNB",
+                "amount": 0.6186912951466219
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.004695285250463125,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 1528.4863206569914
+            },
+            "token1": {
+                "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                "symbol": "WBNB",
+                "amount": 7.176679276915421
+            }
+        }
+    },
+    "DAI/USDC": {
+        "SushiSwap": {
+            "price": 0.9921442810062444,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 23.05803073655984
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 22.87689332654405
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.003950142310825,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 794.9565782298796
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 798.0967698448143
+            }
+        }
+    },
+    "DAI/Lsp 20": {
+        "SushiSwap": {
+            "price": 7948590089.814858,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 0.003878320085065148
+            },
+            "token1": {
+                "address": "0xE62A9bc6eDe534E18Dd2793Dcaf5A2B6df112180",
+                "symbol": "Lsp 20",
+                "amount": 30827176.593278755
+            }
+        },
+        "PancakeSwap": {
+            "price": 4000513157.890732,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 0.04079583056997931
+            },
+            "token1": {
+                "address": "0xE62A9bc6eDe534E18Dd2793Dcaf5A2B6df112180",
+                "symbol": "Lsp 20",
+                "amount": 163204256.9822832
+            }
+        }
+    },
+    "Cake/DAI": {
+        "SushiSwap": {
+            "price": 6.3602015113350125,
+            "token0": {
+                "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+                "symbol": "Cake",
+                "amount": 3.97e-16
+            },
+            "token1": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 2.525e-15
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.189496770486816,
+            "token0": {
+                "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+                "symbol": "Cake",
+                "amount": 436.6946311935591
+            },
+            "token1": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 519.4468534936698
+            }
+        }
+    },
+    "DAI/AD2": {
+        "SushiSwap": {
+            "price": 4.2212051650497554e-8,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 2.3689917e-11
+            },
+            "token1": {
+                "address": "0xc4ACD115F1CeeBD4A88273423D6CF77C4A1c7559",
+                "symbol": "AD2",
+                "amount": 1e-8
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.00022697286349538615,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 0.000003738131047623
+            },
+            "token1": {
+                "address": "0xc4ACD115F1CeeBD4A88273423D6CF77C4A1c7559",
+                "symbol": "AD2",
+                "amount": 8.48454308
+            }
+        }
+    },
+    "DAI/ETH": {
+        "SushiSwap": {
+            "price": 0.000615176241438107,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 6.424067043860707
+            },
+            "token1": {
+                "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+                "symbol": "ETH",
+                "amount": 0.00395193341878864
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.0006130620948289051,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 0.029559482533506622
+            },
+            "token1": {
+                "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+                "symbol": "ETH",
+                "amount": 0.00001812179828405
+            }
+        }
+    },
+    "DAI/PILA": {
+        "SushiSwap": {
+            "price": 0.5789239081888408,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 2.6321795927865757
+            },
+            "token1": {
+                "address": "0xe8C932E10AAE3a564b72f2f4e50ac448fB9F945f",
+                "symbol": "PILA",
+                "amount": 1.5238316969109158
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.6476946860658837,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 0.39333704027911104
+            },
+            "token1": {
+                "address": "0xe8C932E10AAE3a564b72f2f4e50ac448fB9F945f",
+                "symbol": "PILA",
+                "amount": 0.2547623108216627
+            }
+        }
+    },
+    "DAI/BTCB": {
+        "SushiSwap": {
+            "price": 0.00003630067929479196,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 13.99421255072316
+            },
+            "token1": {
+                "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+                "symbol": "BTCB",
+                "amount": 0.000507999421786954
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.00003574808363668943,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 372.4892273316351
+            },
+            "token1": {
+                "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+                "symbol": "BTCB",
+                "amount": 0.013315776052417114
+            }
+        }
+    },
+    "DAI/Q": {
+        "SushiSwap": {
+            "price": 90.26071583470446,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 0.0001067865196373
+            },
+            "token1": {
+                "address": "0x27a708a2e234a07E30EE13404e47259591CBB1c8",
+                "symbol": "Q",
+                "amount": 0.009638627703959422
+            }
+        },
+        "PancakeSwap": {
+            "price": 55.0355502344896,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 0.000139382402135596
+            },
+            "token1": {
+                "address": "0x27a708a2e234a07E30EE13404e47259591CBB1c8",
+                "symbol": "Q",
+                "amount": 0.007670987194537424
+            }
+        }
+    },
+    "BTCBR/DAI": {
+        "SushiSwap": {
+            "price": 1.5038422355709645e-15,
+            "token0": {
+                "address": "0x0cF8e180350253271f4b917CcFb0aCCc4862F262",
+                "symbol": "BTCBR",
+                "amount": 1180487892299170
+            },
+            "token1": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 1.7752675510196396
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.4068191148155413e-15,
+            "token0": {
+                "address": "0x0cF8e180350253271f4b917CcFb0aCCc4862F262",
+                "symbol": "BTCBR",
+                "amount": 3720149400842111
+            },
+            "token1": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 5.233577287074265
+            }
+        }
+    },
+    "DAI/AMIS": {
+        "SushiSwap": {
+            "price": 3.3333333333333334e-8,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 0.015
+            },
+            "token1": {
+                "address": "0x3A4E6488D35A8f739b7828f9d9222ca964731bc9",
+                "symbol": "AMIS",
+                "amount": 0.5
+            }
+        },
+        "PancakeSwap": {
+            "price": 8.70090205027143e-8,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 1.06245747545355
+            },
+            "token1": {
+                "address": "0x3A4E6488D35A8f739b7828f9d9222ca964731bc9",
+                "symbol": "AMIS",
+                "amount": 92.443384265
+            }
+        }
+    },
+    "DAI/HPO": {
+        "SushiSwap": {
+            "price": 322.5960717090342,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 0.5271028575403033
+            },
+            "token1": {
+                "address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
+                "symbol": "HPO",
+                "amount": 170.04131122910852
+            }
+        },
+        "PancakeSwap": {
+            "price": 284,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 6e-17
+            },
+            "token1": {
+                "address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
+                "symbol": "HPO",
+                "amount": 1.704e-14
+            }
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "WETH/USDT": {
+        "SushiSwap": {
+            "price": 1.9126672467851354e-9,
+            "token0": {
+                "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+                "symbol": "WETH",
+                "amount": 0.01698193402673393
+            },
+            "token1": {
+                "address": "0xfad6367E97217cC51b4cd838Cc086831f81d38C2",
+                "symbol": "USDT",
+                "amount": 32.480789
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.970947888231685e-9,
+            "token0": {
+                "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+                "symbol": "WETH",
+                "amount": 0.31288831870297956
+            },
+            "token1": {
+                "address": "0xfad6367E97217cC51b4cd838Cc086831f81d38C2",
+                "symbol": "USDT",
+                "amount": 616.686571
+            }
+        }
+    },
+    "USDT/WETH": {
+        "SushiSwap": {
+            "price": 6819955.496559767,
+            "token0": {
+                "address": "0x79C950C7446B234a6Ad53B908fBF342b01c4d446",
+                "symbol": "USDT",
+                "amount": 0.008575
+            },
+            "token1": {
+                "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+                "symbol": "WETH",
+                "amount": 5.8481118383e-8
+            }
+        },
+        "PancakeSwap": {
+            "price": 185825.52653893933,
+            "token0": {
+                "address": "0x79C950C7446B234a6Ad53B908fBF342b01c4d446",
+                "symbol": "USDT",
+                "amount": 303.622477
+            },
+            "token1": {
+                "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+                "symbol": "WETH",
+                "amount": 0.000056420806657582
+            }
+        }
+    },
+    "DAI/USDT": {
+        "SushiSwap": {
+            "price": 9.97999999e-13,
+            "token0": {
+                "address": "0x2899a03ffDab5C90BADc5920b4f53B0884EB13cC",
+                "symbol": "DAI",
+                "amount": 1000
+            },
+            "token1": {
+                "address": "0x79C950C7446B234a6Ad53B908fBF342b01c4d446",
+                "symbol": "USDT",
+                "amount": 997.999999
+            }
+        },
+        "PancakeSwap": {
+            "price": 1e-12,
+            "token0": {
+                "address": "0x2899a03ffDab5C90BADc5920b4f53B0884EB13cC",
+                "symbol": "DAI",
+                "amount": 59174.519249
+            },
+            "token1": {
+                "address": "0x79C950C7446B234a6Ad53B908fBF342b01c4d446",
+                "symbol": "USDT",
+                "amount": 59174.519249
+            }
+        }
+    },
+    "USDC/USDT": {
+        "SushiSwap": {
+            "price": 1,
+            "token0": {
+                "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+                "symbol": "USDC",
+                "amount": 10000
+            },
+            "token1": {
+                "address": "0x79C950C7446B234a6Ad53B908fBF342b01c4d446",
+                "symbol": "USDT",
+                "amount": 10000
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.06785728135697643,
+            "token0": {
+                "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+                "symbol": "USDC",
+                "amount": 634.142072
+            },
+            "token1": {
+                "address": "0x79C950C7446B234a6Ad53B908fBF342b01c4d446",
+                "symbol": "USDT",
+                "amount": 43.031157
+            }
+        }
+    },
+    "USDT/SLF": {
+        "SushiSwap": {
+            "price": 1.0009521359457407,
+            "token0": {
+                "address": "0x79C950C7446B234a6Ad53B908fBF342b01c4d446",
+                "symbol": "USDT",
+                "amount": 733.301797
+            },
+            "token1": {
+                "address": "0xd44BB808bfE43095dBb94c83077766382D63952a",
+                "symbol": "SLF",
+                "amount": 734
+            }
+        },
+        "PancakeSwap": {
+            "price": 2.1004666259806664,
+            "token0": {
+                "address": "0x79C950C7446B234a6Ad53B908fBF342b01c4d446",
+                "symbol": "USDT",
+                "amount": 13806.896673
+            },
+            "token1": {
+                "address": "0xd44BB808bfE43095dBb94c83077766382D63952a",
+                "symbol": "SLF",
+                "amount": 29000.92567
+            }
+        }
+    }
+}

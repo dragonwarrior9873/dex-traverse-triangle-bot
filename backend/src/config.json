@@ -1,0 +1,51 @@
+{
+    "active": "bscTestnet",
+    "bsc": {
+        "RPC_URL": "https://bsc-dataseed.binance.org/",
+        "ETH": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "TOKEN0": "0x55d398326f99059fF775485246999027B3197955",
+        "TOKEN1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "ROUTER0_ADDRESS": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+        "ROUTER1_ADDRESS": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+        "NORMAL_ARBITRAGE_ADDRESS": "0xDA72CdDb358Da343CEAa192f3F13CB6e18FE0D5E",
+        "FLASH_ARBITRAGE_ADDRESS": "0x35aFb3829824C1fBc5BD2008502C7d4f16cF2568",
+        "AUTO_TRANSFER": false,
+        "PRINT_PAIRS": false
+    },
+    "bscTestnet": {
+        "RPC_URL": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+        "ETH": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+        "TOKEN0": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+        "TOKEN1": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+        "ROUTER0_ADDRESS": "0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3",
+        "ROUTER1_ADDRESS": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+        "NORMAL_ARBITRAGE_ADDRESS": "0xB3B6521594dF9D997c79BB26F0960561958adc76",
+        "FLASH_ARBITRAGE_ADDRESS": "0x997b82FdBf4d0B256Bf3A629FC5F5538Cb6C5172",
+        "AUTO_TRANSFER": false,
+        "PRINT_PAIRS": false
+    },
+    "eth": {
+        "RPC_URL": "https://ethereum.publicnode.com",
+        "ETH": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "TOKEN0": "",
+        "TOKEN1": "",
+        "ROUTER0_ADDRESS": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+        "ROUTER1_ADDRESS": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F",
+        "NORMAL_ARBITRAGE_ADDRESS": "",
+        "FLASH_ARBITRAGE_ADDRESS": "",
+        "AUTO_TRANSFER": false,
+        "PRINT_PAIRS": true
+    },
+    "goerli": {
+        "RPC_URL": "https://ethereum-goerli.publicnode.com",
+        "ETH": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+        "TOKEN0": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+        "TOKEN1": "0x30445671a1CAefAA0FDa61E09543e43b3e6A3507",
+        "ROUTER0_ADDRESS": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+        "ROUTER1_ADDRESS": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+        "NORMAL_ARBITRAGE_ADDRESS": "",
+        "FLASH_ARBITRAGE_ADDRESS": "0x11722941a37a712f872aeEE87C2c048Aeb038328",
+        "AUTO_TRANSFER": false,
+        "PRINT_PAIRS": false
+    }
+}

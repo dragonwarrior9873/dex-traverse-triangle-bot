@@ -1,0 +1,786 @@
+{
+    "USDC/BUSD": {
+        "SushiSwap": {
+            "price": 1.0001453933331368,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 3.422517590952913
+            },
+            "token1": {
+                "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+                "symbol": "BUSD",
+                "amount": 3.423015202193181
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.9980834229248797,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 738696.2620064011
+            },
+            "token1": {
+                "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+                "symbol": "BUSD",
+                "amount": 737280.4936851627
+            }
+        }
+    },
+    "USDT/USDC": {
+        "SushiSwap": {
+            "price": 0.995678090839188,
+            "token0": {
+                "address": "0x55d398326f99059fF775485246999027B3197955",
+                "symbol": "USDT",
+                "amount": 145.99654913931323
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 145.3655653161411
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.0029448740275932,
+            "token0": {
+                "address": "0x55d398326f99059fF775485246999027B3197955",
+                "symbol": "USDT",
+                "amount": 781244.4080193088
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 783545.0743856872
+            }
+        }
+    },
+    "USDC/WBNB": {
+        "SushiSwap": {
+            "price": 0.004661662259338511,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 11014.817122221859
+            },
+            "token1": {
+                "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                "symbol": "WBNB",
+                "amount": 51.34735727217728
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.004675144418322178,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 606772.5579929082
+            },
+            "token1": {
+                "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                "symbol": "WBNB",
+                "amount": 2836.7493376916145
+            }
+        }
+    },
+    "IRON/USDC": {
+        "SushiSwap": {
+            "price": 0.010128309195469368,
+            "token0": {
+                "address": "0x7b65B489fE53fCE1F6548Db886C08aD73111DDd8",
+                "symbol": "IRON",
+                "amount": 53.88555348461186
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.5457695468611508
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.9882005899705014,
+            "token0": {
+                "address": "0x7b65B489fE53fCE1F6548Db886C08aD73111DDd8",
+                "symbol": "IRON",
+                "amount": 1.017e-15
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 1.005e-15
+            }
+        }
+    },
+    "USDC/MYMC": {
+        "SushiSwap": {
+            "price": 5.7301320729262254e-15,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.000174516047321982
+            },
+            "token1": {
+                "address": "0xa206C8924c9FE86F9Eb2b68A7290e4aFB40EC321",
+                "symbol": "MYMC",
+                "amount": 0.01
+            }
+        },
+        "PancakeSwap": {
+            "price": 2.4310217925555927e-12,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.000675436149946587
+            },
+            "token1": {
+                "address": "0xa206C8924c9FE86F9Eb2b68A7290e4aFB40EC321",
+                "symbol": "MYMC",
+                "amount": 16.42
+            }
+        }
+    },
+    "DAI/USDC": {
+        "SushiSwap": {
+            "price": 0.9921442810062444,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 23.05803073655984
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 22.87689332654405
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.003950142310825,
+            "token0": {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "symbol": "DAI",
+                "amount": 794.9565782298796
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 798.0967698448143
+            }
+        }
+    },
+    "ETH/USDC": {
+        "SushiSwap": {
+            "price": 1636.6943374151967,
+            "token0": {
+                "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+                "symbol": "ETH",
+                "amount": 0.003788227825813548
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 6.2001710313477165
+            }
+        },
+        "PancakeSwap": {
+            "price": 1645.0655678803041,
+            "token0": {
+                "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+                "symbol": "ETH",
+                "amount": 331.8340958539019
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 545888.8453379462
+            }
+        }
+    },
+    "USDC/MM": {
+        "SushiSwap": {
+            "price": 0.053929118833716136,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.003309993446470329
+            },
+            "token1": {
+                "address": "0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4",
+                "symbol": "MM",
+                "amount": 0.00017850502991352
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.4988006822767042,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 3.4470717881766335
+            },
+            "token1": {
+                "address": "0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4",
+                "symbol": "MM",
+                "amount": 1.7194017597992837
+            }
+        }
+    },
+    "USDC/DAPF": {
+        "SushiSwap": {
+            "price": 1.8276027935944807e-9,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.004427599382295252
+            },
+            "token1": {
+                "address": "0x9C67EE6D0f3f12969aBC92595b06Cc1c93a60313",
+                "symbol": "DAPF",
+                "amount": 8.091893
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.882777226779682e-9,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.03919321943691375
+            },
+            "token1": {
+                "address": "0x9C67EE6D0f3f12969aBC92595b06Cc1c93a60313",
+                "symbol": "DAPF",
+                "amount": 73.792101
+            }
+        }
+    },
+    "SHARIA/USDC": {
+        "SushiSwap": {
+            "price": 470596037.0088341,
+            "token0": {
+                "address": "0x740D35B8f39333d91274672D18637f4228AeF2C4",
+                "symbol": "SHARIA",
+                "amount": 0.00158816
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.000074738180213595
+            }
+        },
+        "PancakeSwap": {
+            "price": 134151079.82150179,
+            "token0": {
+                "address": "0x740D35B8f39333d91274672D18637f4228AeF2C4",
+                "symbol": "SHARIA",
+                "amount": 0.37122732
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.004980054583724219
+            }
+        }
+    },
+    "USDC/BRAIN": {
+        "SushiSwap": {
+            "price": 1.4909117075055776,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.000025937400103778
+            },
+            "token1": {
+                "address": "0x9191191aecDfdD0DDf8f5724E1C6de38C3CBAFF9",
+                "symbol": "BRAIN",
+                "amount": 38670.373476979
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.0000025946249999999993,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.003931203931203932
+            },
+            "token1": {
+                "address": "0x9191191aecDfdD0DDf8f5724E1C6de38C3CBAFF9",
+                "symbol": "BRAIN",
+                "amount": 10.2
+            }
+        }
+    },
+    "SERVE/USDC": {
+        "SushiSwap": {
+            "price": 0.002059854244565574,
+            "token0": {
+                "address": "0x3F1d29b611c649eEC1e62bE2237891DD88E1aFe0",
+                "symbol": "SERVE",
+                "amount": 98.79022742594377
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.2034934692849286
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.0017573957728386463,
+            "token0": {
+                "address": "0x3F1d29b611c649eEC1e62bE2237891DD88E1aFe0",
+                "symbol": "SERVE",
+                "amount": 37552.02913374099
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 65.99377726115011
+            }
+        }
+    },
+    "Cake/USDC": {
+        "SushiSwap": {
+            "price": 1.2018304925863668,
+            "token0": {
+                "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+                "symbol": "Cake",
+                "amount": 16.063666078134148
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 19.305803715426872
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.1935506351207381,
+            "token0": {
+                "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+                "symbol": "Cake",
+                "amount": 1392.6638298641012
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 1662.2147986439777
+            }
+        }
+    },
+    "DEX/USDC": {
+        "SushiSwap": {
+            "price": 0.00005463940405287722,
+            "token0": {
+                "address": "0x45E55E756496c046074af00709E17183c220c438",
+                "symbol": "DEX",
+                "amount": 42.843426132682865
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.002340939271473258
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.00005463280442822165,
+            "token0": {
+                "address": "0x45E55E756496c046074af00709E17183c220c438",
+                "symbol": "DEX",
+                "amount": 0.6156291572255246
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.000033633547347013
+            }
+        }
+    },
+    "USDC/Lsp 20": {
+        "SushiSwap": {
+            "price": 7965802231.442856,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.002735748318246773
+            },
+            "token1": {
+                "address": "0xE62A9bc6eDe534E18Dd2793Dcaf5A2B6df112180",
+                "symbol": "Lsp 20",
+                "amount": 21792430.058156185
+            }
+        },
+        "PancakeSwap": {
+            "price": 5464414923.231652,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.04419441636778288
+            },
+            "token1": {
+                "address": "0xE62A9bc6eDe534E18Dd2793Dcaf5A2B6df112180",
+                "symbol": "Lsp 20",
+                "amount": 241496628.32362598
+            }
+        }
+    },
+    "USDC/COC": {
+        "SushiSwap": {
+            "price": 0.9999340991729304,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 2.09196797871e-7
+            },
+            "token1": {
+                "address": "0xe4eA8c61a6957F7b41507B5bA6868D6D11819B08",
+                "symbol": "COC",
+                "amount": 2.09183011629e-7
+            }
+        },
+        "PancakeSwap": {
+            "price": 11554065836450902000,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 8.421404851e-9
+            },
+            "token1": {
+                "address": "0xe4eA8c61a6957F7b41507B5bA6868D6D11819B08",
+                "symbol": "COC",
+                "amount": 97301466083.86101
+            }
+        }
+    },
+    "GLA/USDC": {
+        "SushiSwap": {
+            "price": 31622777,
+            "token0": {
+                "address": "0x55ddAeBD527d196E53b0c60CC37246b3364080c2",
+                "symbol": "GLA",
+                "amount": 1e-9
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 3.1622777e-11
+            }
+        },
+        "PancakeSwap": {
+            "price": 696935497.4808877,
+            "token0": {
+                "address": "0x55ddAeBD527d196E53b0c60CC37246b3364080c2",
+                "symbol": "GLA",
+                "amount": 119.840572383
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 83.52114893214043
+            }
+        }
+    },
+    "USDC/AD2": {
+        "SushiSwap": {
+            "price": 7.55286346485086e-9,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.000003477224250408
+            },
+            "token1": {
+                "address": "0xc4ACD115F1CeeBD4A88273423D6CF77C4A1c7559",
+                "symbol": "AD2",
+                "amount": 0.00026263
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.00005100479150325611,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.000381723547791722
+            },
+            "token1": {
+                "address": "0xc4ACD115F1CeeBD4A88273423D6CF77C4A1c7559",
+                "symbol": "AD2",
+                "amount": 194.69729967
+            }
+        }
+    },
+    "LTC/USDC": {
+        "SushiSwap": {
+            "price": 65.14497302406139,
+            "token0": {
+                "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+                "symbol": "LTC",
+                "amount": 0.011867424075421762
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.7731030212584475
+            }
+        },
+        "PancakeSwap": {
+            "price": 76.36283200006547,
+            "token0": {
+                "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+                "symbol": "LTC",
+                "amount": 0.000013955689048329
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.001065695938242701
+            }
+        }
+    },
+    "USDC/XA9": {
+        "SushiSwap": {
+            "price": 22038910709502386000,
+            "token0": {
+                "address": "0xB04906e95AB5D797aDA81508115611fee694c2b3",
+                "symbol": "USDC",
+                "amount": 0.002822
+            },
+            "token1": {
+                "address": "0xE9914872699bE897a71477a14049d503a24A1429",
+                "symbol": "XA9",
+                "amount": 62193.80602221573
+            }
+        },
+        "PancakeSwap": {
+            "price": 3464101613695,
+            "token0": {
+                "address": "0xB04906e95AB5D797aDA81508115611fee694c2b3",
+                "symbol": "USDC",
+                "amount": 0.000001
+            },
+            "token1": {
+                "address": "0xE9914872699bE897a71477a14049d503a24A1429",
+                "symbol": "XA9",
+                "amount": 0.000003464101613695
+            }
+        }
+    },
+    "MASK/USDC": {
+        "SushiSwap": {
+            "price": 446507810956.8565,
+            "token0": {
+                "address": "0x2eD9a5C8C13b93955103B9a7C167B67Ef4d568a3",
+                "symbol": "MASK",
+                "amount": 2.23e-16
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.000099571241843379
+            }
+        },
+        "PancakeSwap": {
+            "price": 2.7168481314073047,
+            "token0": {
+                "address": "0x2eD9a5C8C13b93955103B9a7C167B67Ef4d568a3",
+                "symbol": "MASK",
+                "amount": 5.969374232652375
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 16.217883229652518
+            }
+        }
+    },
+    "HILLTOP/USDC": {
+        "SushiSwap": {
+            "price": 0.0049774343092591185,
+            "token0": {
+                "address": "0x27845cFFF80407100481d2eEF169e9887D641939",
+                "symbol": "HILLTOP",
+                "amount": 0.000050226199022647
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 2.49997606239e-7
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.2638375244689287e-8,
+            "token0": {
+                "address": "0x27845cFFF80407100481d2eEF169e9887D641939",
+                "symbol": "HILLTOP",
+                "amount": 72607422.45967934
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.9176398505951082
+            }
+        }
+    },
+    "USDC/RANKER": {
+        "SushiSwap": {
+            "price": 444.6880048370157,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.10679659580334529
+            },
+            "token1": {
+                "address": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
+                "symbol": "RANKER",
+                "amount": 47.49116511117482
+            }
+        },
+        "PancakeSwap": {
+            "price": 699.0263261006872,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.08562290881721579
+            },
+            "token1": {
+                "address": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
+                "symbol": "RANKER",
+                "amount": 59.8526673805525
+            }
+        }
+    },
+    "USDC/TGR": {
+        "SushiSwap": {
+            "price": 15.59202301834822,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 15.196587809998908
+            },
+            "token1": {
+                "address": "0xd9780513292477C4039dFdA1cfCD89Ff111e9DA5",
+                "symbol": "TGR",
+                "amount": 236.9455469338529
+            }
+        },
+        "PancakeSwap": {
+            "price": 15.748957989514897,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 12.272109060685239
+            },
+            "token1": {
+                "address": "0xd9780513292477C4039dFdA1cfCD89Ff111e9DA5",
+                "symbol": "TGR",
+                "amount": 193.27293003947693
+            }
+        }
+    },
+    "BTCBR/USDC": {
+        "SushiSwap": {
+            "price": 1.2927731558321997e-15,
+            "token0": {
+                "address": "0x0cF8e180350253271f4b917CcFb0aCCc4862F262",
+                "symbol": "BTCBR",
+                "amount": 116187752041085.66
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.1502044068752034
+            }
+        },
+        "PancakeSwap": {
+            "price": 1.3198268693079564e-15,
+            "token0": {
+                "address": "0x0cF8e180350253271f4b917CcFb0aCCc4862F262",
+                "symbol": "BTCBR",
+                "amount": 4362291480607001
+            },
+            "token1": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 5.757469507858308
+            }
+        }
+    },
+    "USDC/HPO": {
+        "SushiSwap": {
+            "price": 269.854793594655,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 20.22776076104615
+            },
+            "token1": {
+                "address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
+                "symbol": "HPO",
+                "amount": 5458.55820505417
+            }
+        },
+        "PancakeSwap": {
+            "price": 256.37910053077496,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 8532.73351742722
+            },
+            "token1": {
+                "address": "0xa0ED3C520dC0632657AD2EaaF19E26C4fD431a84",
+                "symbol": "HPO",
+                "amount": 2187614.5442667864
+            }
+        }
+    },
+    "USDC/pGOLD": {
+        "SushiSwap": {
+            "price": 0.00048342127463114936,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.11495811830119883
+            },
+            "token1": {
+                "address": "0xF602A45812040D90B202355bdc05438918CD3FE3",
+                "symbol": "pGOLD",
+                "amount": 0.000055573200078364
+            }
+        },
+        "PancakeSwap": {
+            "price": 0.0004941013220470358,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 616.1308509199906
+            },
+            "token1": {
+                "address": "0xF602A45812040D90B202355bdc05438918CD3FE3",
+                "symbol": "pGOLD",
+                "amount": 0.3044310679935325
+            }
+        }
+    },
+    "USDC/STG": {
+        "SushiSwap": {
+            "price": 1.8737100966157434,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 0.08743779813251906
+            },
+            "token1": {
+                "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
+                "symbol": "STG",
+                "amount": 0.16383308518675016
+            }
+        },
+        "PancakeSwap": {
+            "price": 2.1403035129319634,
+            "token0": {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "amount": 2.317088198879206
+            },
+            "token1": {
+                "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
+                "symbol": "STG",
+                "amount": 4.9592720118343605
+            }
+        }
+    }
+}
